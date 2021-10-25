@@ -106,6 +106,16 @@ ul{
     border: 2px solid red;
     height: 400px;
      float: left; 
+     text-align: center;
+     padding: 70px;
+  }
+  ul{
+      
+      list-style-type: none;
+      display: flex;
+  }
+  .para{
+      margin: 30px 10px 40px 10px;
   }
   .right{
     width: 50%;
