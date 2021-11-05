@@ -7,7 +7,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-Live RL:https://youthful-goodall-fd3732.netlify.app/
+Live URL:https://youthful-goodall-fd3732.netlify.app/
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
